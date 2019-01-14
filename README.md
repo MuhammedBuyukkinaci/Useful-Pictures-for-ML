@@ -8,3 +8,7 @@
 
 ![RNN Visualization](https://github.com/MuhammedBuyukkinaci/Useful-Pictures-for-ML/blob/master/Pictures/Screenshot%20from%202018-12-31%2014-51-26.png)
 
+3)Attention
+
+
+![Attention](https://github.com/MuhammedBuyukkinaci/Useful-Pictures-for-ML/blob/master/attention.png)

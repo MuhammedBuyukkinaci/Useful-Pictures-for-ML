@@ -19,3 +19,7 @@
 5) Attention 3
 
 ![Attention 3](https://github.com/MuhammedBuyukkinaci/Useful-Pictures-for-ML/blob/master/Pictures/attention_model.png)
+
+6) Scalar Vector Matrix Tensor
+
+![Tensor](https://github.com/MuhammedBuyukkinaci/Useful-Pictures-for-ML/blob/master/Pictures/tensor_diff.png)

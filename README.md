@@ -27,3 +27,7 @@
 7) Data Science WorkFlow
 
 ![Tensor](https://github.com/MuhammedBuyukkinaci/Useful-Pictures-for-ML/blob/master/Pictures/workflow2.png)
+
+8) Difference between Machine Learning Algorithms
+
+![Tensor](https://github.com/MuhammedBuyukkinaci/Useful-Pictures-for-ML/blob/master/Pictures/diff_ml.png)

@@ -31,3 +31,12 @@
 8) Difference between Machine Learning Algorithms
 
 ![Tensor](https://github.com/MuhammedBuyukkinaci/Useful-Pictures-for-ML/blob/master/Pictures/diff_ml.png)
+
+9) 17 equations
+
+![17](https://github.com/MuhammedBuyukkinaci/Useful-Pictures-for-ML/blob/master/Pictures/17_equations.jpg)
+
+10) How LGB Works
+
+![LGB](https://github.com/MuhammedBuyukkinaci/Useful-Pictures-for-ML/blob/master/Pictures/how_lgb_works.png)
+

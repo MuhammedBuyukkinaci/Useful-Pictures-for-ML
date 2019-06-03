@@ -10,7 +10,7 @@
 
 3) Attention 1
 
-![Attention 1](https://github.com/MuhammedBuyukkinaci/Useful-Pictures-for-ML/blob/master/attention.png)
+![Attention 1](https://github.com/MuhammedBuyukkinaci/Useful-Pictures-for-ML/blob/master/Pictures/attention.png)
 
 4) Attention 2
 

@@ -49,3 +49,6 @@
 13) stats.probplot
 
 ![probplot](https://github.com/MuhammedBuyukkinaci/Useful-Pictures-for-ML/blob/master/Pictures/statsplot.png)
+
+14) Embedding Layer
+!(Embedding Layer)(https://github.com/MuhammedBuyukkinaci/Useful-Pictures-for-ML/blob/master/Pictures/embedding_layer.png)

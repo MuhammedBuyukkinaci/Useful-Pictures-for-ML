@@ -46,3 +46,6 @@
 12) AUC Intuition
 ![AUC Intuition](https://github.com/MuhammedBuyukkinaci/Useful-Pictures-for-ML/blob/master/Pictures/auc_intuition.png)
 
+13) stats.probplot
+
+![probplot](https://github.com/MuhammedBuyukkinaci/Useful-Pictures-for-ML/blob/master/Pictures/statsplot.png)

@@ -40,3 +40,6 @@
 
 ![LGB](https://github.com/MuhammedBuyukkinaci/Useful-Pictures-for-ML/blob/master/Pictures/how_lgb_works.png)
 
+11) XOR Problem Metaphor
+![XOR PROBLEM](https://github.com/MuhammedBuyukkinaci/Useful-Pictures-for-ML/blob/master/Pictures/Screenshot%20from%202019-06-03%2011-01-08.png)
+

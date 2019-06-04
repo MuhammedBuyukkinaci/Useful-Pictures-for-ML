@@ -64,3 +64,7 @@
 17) Logistic Regression vs QDA
 
 ![Logistic Regression vs QDA](https://github.com/MuhammedBuyukkinaci/Useful-Pictures-for-ML/blob/master/Pictures/LR_vs_QDA.png)
+
+17) Logistic Regression vs QDA
+
+![QDA Explanation](https://github.com/MuhammedBuyukkinaci/Useful-Pictures-for-ML/blob/master/Pictures/QDA_explanation.png)

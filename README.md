@@ -56,3 +56,7 @@
 15) Covariance & Correlation
 
 ![Covariance Correlation](https://github.com/MuhammedBuyukkinaci/Useful-Pictures-for-ML/blob/master/Pictures/cov_corr.png)
+
+16) LDA Summary
+
+![LDA Summary](https://github.com/MuhammedBuyukkinaci/Useful-Pictures-for-ML/blob/master/Pictures/lda.png)

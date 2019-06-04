@@ -68,3 +68,17 @@
 18) QDA Explanation
 
 ![QDA Explanation](https://github.com/MuhammedBuyukkinaci/Useful-Pictures-for-ML/blob/master/Pictures/QDA_explanation.png)
+
+19) Curse of Dimensionality
+
+![Curse of Dimensionality](https://github.com/MuhammedBuyukkinaci/Useful-Pictures-for-ML/blob/master/Pictures/cod.png)
+
+
+
+
+
+
+
+
+
+

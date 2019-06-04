@@ -73,6 +73,9 @@
 
 ![Curse of Dimensionality](https://github.com/MuhammedBuyukkinaci/Useful-Pictures-for-ML/blob/master/Pictures/cod.png)
 
+20) Curse of Dimensionality 2
+
+![Curse of Dimensionality](https://github.com/MuhammedBuyukkinaci/Useful-Pictures-for-ML/blob/master/Pictures/cod_example.png)
 
 
 

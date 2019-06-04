@@ -60,3 +60,7 @@
 16) LDA Summary
 
 ![LDA Summary](https://github.com/MuhammedBuyukkinaci/Useful-Pictures-for-ML/blob/master/Pictures/lda.png)
+
+17) Logistic Regression vs QDA
+
+![Logistic Regression vs QDA](https://github.com/MuhammedBuyukkinaci/Useful-Pictures-for-ML/blob/master/Pictures/LR_vs_QDA.png)

@@ -77,6 +77,9 @@
 
 ![Curse of Dimensionality](https://github.com/MuhammedBuyukkinaci/Useful-Pictures-for-ML/blob/master/Pictures/cod_example.png)
 
+21) QDA vs QLR
+
+![QDA vs QLR](https://github.com/MuhammedBuyukkinaci/Useful-Pictures-for-ML/blob/master/Pictures/qda_vs_qlr.png)
 
 
 

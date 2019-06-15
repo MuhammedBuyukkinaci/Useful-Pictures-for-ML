@@ -81,7 +81,9 @@
 
 ![QDA vs QLR](https://github.com/MuhammedBuyukkinaci/Useful-Pictures-for-ML/blob/master/Pictures/qda_vs_qlr.png)
 
+22) AUC Calculation
 
+![AUC Calculation](https://github.com/MuhammedBuyukkinaci/Useful-Pictures-for-ML/blob/master/Pictures/auc_calculation.png)
 
 
 

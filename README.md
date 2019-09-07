@@ -85,6 +85,9 @@
 
 ![AUC Calculation](https://github.com/MuhammedBuyukkinaci/Useful-Pictures-for-ML/blob/master/Pictures/auc_calculation.png)
 
+23) Data Relaxation
+
+![Data Relaxation](https://github.com/MuhammedBuyukkinaci/Useful-Pictures-for-ML/blob/master/Pictures/Screenshot%20from%202019-09-07%2016-03-42.png)
 
 
 

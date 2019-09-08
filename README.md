@@ -95,3 +95,6 @@
 25) Neural Network Null Imputation
 ![Neural Network Null Imputation](https://github.com/MuhammedBuyukkinaci/Useful-Pictures-for-ML/blob/master/Pictures/NN_Null_Imputation.png)
 
+26)Keras Embedding
+![Keras Embedding](https://github.com/MuhammedBuyukkinaci/Useful-Pictures-for-ML/blob/master/Pictures/KERAS_EMBEDDING.png)
+

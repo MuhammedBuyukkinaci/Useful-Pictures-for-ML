@@ -92,5 +92,6 @@
 24) Precision Recall AUC
 ![Precision Recall AUC](https://github.com/MuhammedBuyukkinaci/Useful-Pictures-for-ML/blob/master/Pictures/pr_auc.png)
 
-
+25) Neural Network Null Imputation
+![Neural Network Null Imputation](https://github.com/MuhammedBuyukkinaci/Useful-Pictures-for-ML/blob/master/Pictures/NN_Null_Imputation.png)
 
